@@ -113,7 +113,7 @@
 # 🖥 Local 실행 방법
 [1] Clone the Repo
 ```
-git clone https://github.com/HeiniHeo/AllAboutSHT.git
+git clone https://github.com/jorny95/AllAboutSHT.git
 ```
 
 [2] Install Packages
