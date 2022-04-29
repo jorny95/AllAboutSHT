@@ -52,7 +52,7 @@
 # 🛠 사용 기술
 |Front-End|Back-End|DataBase|Front-Server|Back-Server|Tool|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|JavaScript, React.JS, Next.JS|JavaScript, Node.js|MySQL|AWS EC2|AWS EC2|Git, Notion|
+|JavaScript, React.JS, Next.JS|Node.js|MySQL|AWS EC2|AWS EC2|Git, Notion|
 
 #### back package.json
 
